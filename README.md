@@ -18,13 +18,13 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/BhagatKaveri/Rest-API.git
 
-   ### 1. Navigate to the project directory:
+   1. Navigate to the project directory:
 
    cd your-repository
 
-   ### 2. Install dependencies:
+   2. Install dependencies:
 
    npm install
 
