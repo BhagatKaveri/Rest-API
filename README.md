@@ -32,51 +32,11 @@ Make sure you have the following installed on your machine:
 
 npm start
 
-# 
-Certainly! Below is the provided documentation converted into a README.md file format:
-
-markdown
-Copy code
-# Product Management API
-
-## Overview
-
-This API provides a simple interface to manage and retrieve information about products. It follows RESTful principles and is implemented using Node.js and TypeScript.
-
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd your-repository
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the Server Locally
-bash
-Copy code
-npm start
 The server will be running at http://localhost:{port}, where {port} is the port number specified in your server setup (default is usually 3000).
 
 ## Endpoints
 
-###  Get Products
+##  Get Products
 
 ###  Request
 Method: GET
